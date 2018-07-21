@@ -1,6 +1,6 @@
 {
   "name": "@gurinder/vue-crud",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "private": false,
   "license": "MIT",
   "author": "Gurinder Chauhan <gurinderchauhan@gmail.com>",
@@ -63,4 +63,3 @@
     "not ie <= 8"
   ]
 }
-
