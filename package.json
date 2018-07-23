@@ -18,7 +18,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "main": "./src/Form.js",
+  "main": "src/Form.js",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
